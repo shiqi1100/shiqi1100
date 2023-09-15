@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+##### The revolution has not yet been successful, comrades still need to work hard
+
 ####  Welcome to my GitHub home page.
 
 <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Shi+Qi;I'm+a+front-end+developer;Nice+to+meet+you!">

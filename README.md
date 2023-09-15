@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##### The revolution has not yet been successful, comrades still need to work hard
+##### <div style="color: red;">The revolution has not yet been successful, comrades still need to work hard</div>
 
 ####  Welcome to my GitHub home page.
 

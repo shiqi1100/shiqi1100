@@ -1,4 +1,10 @@
 ### Hi there 👋
+####  Welcome to my GitHub home page.
+
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Shi+Qi;I'm+a+front-end+developer;Nice+to+meet+you!">
+
+####  stats:
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiqi1100&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiqi1100&hide_progress=true)
 <!--

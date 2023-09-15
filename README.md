@@ -14,8 +14,14 @@
 
 #### 📊 stats:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiqi1100&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiqi1100&hide_progress=true)
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=shiqi1100&show_icons=true&theme=transparent" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiqi1100&hide_progress=true" alt="" /> |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+
+
+
+
+
 <!--
 **shiqi1100/shiqi1100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

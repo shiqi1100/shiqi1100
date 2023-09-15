@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div>
 
-#### 📊 stats:
+### 📊 stats:
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=shiqi1100&show_icons=true&theme=transparent&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiqi1100&hide_border=true" alt="" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |

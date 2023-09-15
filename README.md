@@ -14,7 +14,7 @@
 
 #### 📊 stats:
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=shiqi1100&show_icons=true&theme=transparent" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiqi1100&hide_progress=true" alt="" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=shiqi1100&show_icons=true&theme=transparent" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiqi1100" alt="" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 

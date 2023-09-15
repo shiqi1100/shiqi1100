@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div style="color: red;">The revolution has not yet been successful, comrades still need to work hard</div>
+<font color=red size=5>The revolution has not yet been successful, comrades still need to work hard</font>
 
 ####  Welcome to my GitHub home page.
 
